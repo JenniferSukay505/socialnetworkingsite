@@ -3,6 +3,6 @@
 		<title>index page</title>
 	</head>
 	<body>
-		<p>Index Page</p>
+		<p>This Index Page</p>
 	</body>
 </html>
